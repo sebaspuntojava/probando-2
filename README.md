@@ -53,4 +53,3 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal.
 npm run lint
 npm run build
 ```
-
